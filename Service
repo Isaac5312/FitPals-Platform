@@ -1,0 +1,8 @@
+# Navigate to the server directory
+cd server
+
+# Create a 'services' folder if it doesn't exist
+mkdir services
+
+# Create the normalization file
+touch services/normalizationService.js
